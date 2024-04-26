@@ -1,0 +1,65 @@
+/*
+Theme Name:icodeguru
+Theme URI:http://www.icodeguru.pk
+Author: Maria kanwal
+version:1.0
+Author URI:http://www.icodeguru.pk
+description:hello icodeguru
+*/
+
+.navbar ul{
+  
+    display: flex;
+    
+    list-style: none; 
+    
+     
+    }
+    
+    .navbar   li  {
+     
+      justify-content: end;
+      align-items: center; 
+    text-decoration: none;
+    margin-right:10px ; 
+    margin-bottom:450px;
+   
+  } 
+  .navbar li a{
+     
+     
+      /* margin-right: 10px; */
+      color: black;
+      text-decoration: none;
+      font-size: 20px;
+  }
+  .header{
+      margin-bottom: 460px;
+  }
+
+
+/* .my img{
+    height: 350px;
+    margin-bottom: 60px;
+} */
+.ftr{
+    margin-top: 500px;
+    
+}
+.services{
+    margin-top: -500px;
+}
+.contact{
+    margin-top: -500px;
+}
+
+
+ 
+
+
+
+
+
+
+
+  
